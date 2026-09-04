@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Shiya Sun, you can also call me Sheena.
-🎓 I'm a first-year Statistics major at the University of Illinois Urbana-Champaign (UIUC)  
+🎓 I'm a second-year Statistics major at the University of Illinois Urbana-Champaign (UIUC)  
 📊 Interested in data analysis, machine learning, and AI applications  
 💻 Background in Python, Java, C++, and applied data projects 
 
